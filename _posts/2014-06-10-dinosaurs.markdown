@@ -1,11 +1,13 @@
 ---
-layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-01.jpg"
+layout: post
+title: Dinosaurs are extinct today
+subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+date: 2014-06-10T12:00:00.000Z
+author: Start Bootstrap
+"header-img": "img/post-bg-01.jpg"
+published: true
 ---
+
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
@@ -26,6 +28,10 @@ header-img: "img/post-bg-01.jpg"
 <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
 
 <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+##Another subhead
+
+
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
